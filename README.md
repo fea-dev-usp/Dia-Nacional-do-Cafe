@@ -1,4 +1,4 @@
-![Dia Nacional do Café](assets/dia-nacional-do-cafe.png)
+![Dia Nacional do Café - capa readme](https://github.com/fea-dev-usp/Dia-Nacional-do-Cafe/assets/122839919/eae38324-f6ed-41c4-8e99-fa5c711afdcd)
 
 <div align="center">
  
