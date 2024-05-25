@@ -29,12 +29,11 @@ Você sabia que o dia 24/05 é o **Dia Nacional do Café**? Este produto marcou 
 
 ## Overview 🌎💰
 
-Dadas essas motivações, o FEA.dev — que tem como objetivo unir o mundo dos negócios com o universo da programação — realizou **uma análise de dados sobre as seguintes temáticas**:
+Dadas essas motivações, o FEA.dev — que tem como objetivo unir o mundo dos negócios com o universo da programação — realizou **algumas análises de dados sobre as seguintes temáticas**:
 
-1. **Países Exportadores:**
-   - **Informações:** *concentra-se no volume de exportações de café por cada um dos países sob análise;*
-2. **Consumo:**
-   - **Informações:** *Foco na demanda pelo produto, medida através do consumo interno dos países sob análise;*
+1. Análise dos países quanto à exportação e importação de café;
+2. Análise dos países quanto ao consumo e produção de café;
+3. Análise de probabilidade aplicando o Teorema de Bayes nesse contexto.
 
 Além disso, vale ressaltar que os dados foram retiraods do dataset *[Coffee economic indicatores from the International Coffee Organization](https://www.kaggle.com/datasets/michals22/coffee-dataset) do Kaggle.
 
