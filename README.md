@@ -66,4 +66,4 @@ Caso falte alguma dependência na sua máquina, basta instalar com o comando pip
 
 ## Resultados 💛🖤
 
-Os resultados podem ser conferidos no storytelling contido no arquivo Jupyter Notebook (`ipynb`) contido neste repositório e [na publicação realizada no perfil do FEA.dev no Instagram](https://www.instagram.com/fea.dev/).
+Os resultados podem ser conferidos no storytelling contido no arquivo Jupyter Notebook (`ipynb`) contido neste repositório e [na publicação realizada no perfil do FEA.dev no Instagram](https://www.instagram.com/p/C7XztesuQbb/?img_index=1).
