@@ -37,7 +37,7 @@ Dadas essas motivações, o FEA.dev — que tem como objetivo unir o mundo dos n
 2. Análise dos países quanto ao consumo e produção de café;
 3. Análise de probabilidade aplicando o Teorema de Bayes nesse contexto.
 
-Além disso, vale ressaltar que os dados foram retiraods do dataset *[Coffee economic indicatores from the International Coffee Organization](https://www.kaggle.com/datasets/michals22/coffee-dataset) do Kaggle.
+Além disso, vale ressaltar que os dados foram retiraods do dataset [Coffee economic indicatores from the International Coffee Organization](https://www.kaggle.com/datasets/michals22/coffee-dataset) do Kaggle.
 
 ## Instalação 👨‍💻👩‍💻
 
