@@ -17,7 +17,7 @@
 
   **Participantes:** <a href="https://github.com/GvFreitas1">[![GitHub Badge](https://img.shields.io/badge/Guilherme_Freitas-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GvFreitas1)</a> 
   <a href="https://github.com/Pennini">[![GitHub Badge](https://img.shields.io/badge/André_Pennini-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Pennini)</a>
-  <a href="https://github.com/Vitorak2">[![GitHub Badge](https://img.shields.io/badge/Vitor_Kataymama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Vitorak2)</a> 
+  <a href="https://github.com/Vitorak2">[![GitHub Badge](https://img.shields.io/badge/Vitor_Katayama-100000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Vitorak2)</a> 
 
 </div>
 
