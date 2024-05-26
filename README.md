@@ -44,14 +44,14 @@ Além disso, vale ressaltar que os dados foram retiraods do dataset [Coffee econ
 Foram utilizadas as seguintes dependências:
 
 __Manipulação de dados:__
-```bash
+```python
 
 import pandas as pd
 import numpy as np
 ```
 
 __Visualização de dados:__
-```bash
+```python
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.graph_objs as go
@@ -60,7 +60,7 @@ from plotly.subplots import make_subplots
 ```
 
 Caso falte alguma dependência na sua máquina, basta instalar com o comando pip, como pode ser visto no exemplo abaixo.
-```bash
+```python
   pip install pandas
 ```
 
